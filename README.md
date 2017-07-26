@@ -13,7 +13,7 @@
 
 * Open de virtuele machine (dubbelklik op icoon, of rechtermuis en openen kiezen)
 
-VirtualBox zal nu deze virtuele image gaan importeren om het klaar voor gebruik te maken. Hierbij kan het volgende schermpje getoond worden.
+VirtualBox zal nu dit virtuele image gaan importeren om het klaar voor gebruik te maken. Hierbij kan het volgende schermpje getoond worden.
 
 ![Import settings](https://user-images.githubusercontent.com/2081891/28613496-cbf6b1ac-71f2-11e7-9baa-bd72d4297652.png)
 
