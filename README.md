@@ -1,5 +1,4 @@
-# Installatie Repertorium van Hulthem m.b.v. VirtualBox
-
+# Installatie Repertorium van Hulthem
 ## Installation docs (in Dutch) for the "Repertorium van Hulthem" Virtualbox and CD images
 
 * Download en installeer Virtualbox via https://www.virtualbox.org/
