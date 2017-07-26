@@ -1,7 +1,7 @@
 # Installatie Repertorium van Hulthem
 ## Installation docs (in Dutch) for the "Repertorium van Hulthem" Virtualbox and CD images
 
-* Download en installeer Virtualbox via https://www.virtualbox.org/
+* Download en installeer Virtualbox via https://www.virtualbox.org volgens de instructies die VirtualBox zelf voor jouw besturingssysteem aangeeft.
 
 * Download de virtuele machine waarop het Repertorium is voorgeïnstalleerd via
     https://huygens.knaw.nl/plaats/waar/vm/te/vinden/is
