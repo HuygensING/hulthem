@@ -14,3 +14,7 @@ Installation docs (in Dutch) for the "Repertorium van Hulthem" Virtualbox and CD
 VirtualBox zal nu deze virtuele image gaan importeren om het klaar voor gebruik te maken. Hierbij kan het volgende schermpje getoond worden. Klik in dat geval op `Import` om het importeren te starten:
 
 ![Import settings](https://user-images.githubusercontent.com/2081891/28613496-cbf6b1ac-71f2-11e7-9baa-bd72d4297652.png)
+
+Tijdens het importeren wordt de voortgang getoond:
+
+![Importeren van het image](https://user-images.githubusercontent.com/2081891/28613495-cbf6278c-71f2-11e7-9010-5fe145250dd2.png)
