@@ -42,3 +42,11 @@ De virtuele machine kan nu gestart worden.
 Er verschijnt een nieuw scherm waarin eerst de virtuele machine wordt opgestart, die Windows zal draaien en daarin het `Repertorium van Hulthem` zal opstarten.
 
 ![Repertorium wordt gestart](https://user-images.githubusercontent.com/2081891/28614827-62f0acf8-71f7-11e7-91be-72568a0a0710.png)
+
+## Afsluiten van de virtuele machine
+Na afloop van een sessie werken met het Repertorium kan de gehele virtuele machine worden afgesloten. Sluit hiervoor het venster waarin de virtuele machine draait af met het betreffende 'kruisje'. M.a.w. sluit niet de applicatie af binnen het venster van de virtuele machine, maar sluit het venster van de virtuele machine zelf. Dit mag met de optie 'Power off'. Dat is het virtuele machine equivalent van de steker uit het stopcontact trekken.
+
+![Virtuele machine afsluiten](https://user-images.githubusercontent.com/2081891/28613500-cc0dad26-71f2-11e7-89d5-e789f38dee09.png)
+
+## Opstarten Repertorium in volgende sessies
+Bij vervolgsessies kan het zijn dat de Windows installatie "klaagt" over onjuist afsluiten, of over verlopen houdbaarheid, of dat er updates gedraaid moeten worden. Al deze meldingen kunnen worden weggeklikt, omdat de virtuele machine telkens weer vanuit dezelfde toestand wordt opgestart hoeft er niets te worden bijgewerkt en gaat er ook niets "stuk" met de `Power Off` optie.
