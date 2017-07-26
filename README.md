@@ -13,11 +13,11 @@
 
 * Open de virtuele machine (dubbelklik op icoon, of rechtermuis en openen kiezen)
 
-VirtualBox zal nu deze virtuele image gaan importeren om het klaar voor gebruik te maken. Hierbij kan het volgende schermpje getoond worden. Klik in dat geval op `Import` om het importeren te starten:
+VirtualBox zal nu deze virtuele image gaan importeren om het klaar voor gebruik te maken. Hierbij kan het volgende schermpje getoond worden.
 
 ![Import settings](https://user-images.githubusercontent.com/2081891/28613496-cbf6b1ac-71f2-11e7-9baa-bd72d4297652.png)
 
-Tijdens het importeren wordt de voortgang getoond:
+* Klik op `Import` om het importeren te starten. Tijdens het importeren wordt de voortgang getoond:
 
 ![Importeren van het image](https://user-images.githubusercontent.com/2081891/28613495-cbf6278c-71f2-11e7-9010-5fe145250dd2.png)
 
@@ -31,6 +31,14 @@ In de `Storage` settings aan de rechterkant, is te zien dat de CDROM lade leeg i
 
 ![CDROM lade is leeg](https://user-images.githubusercontent.com/2081891/28613494-cbf5cabc-71f2-11e7-8cee-1f8c71598fdc.png)
 
-Klik op `[Optical Drive] Empty` en selecteer de locatie van de CDROM `iso` die je eerder hebt opgeslagen en onthouden. De `Storage` settings laten nu zien dat de CDROM lade is "gevuld" met het `iso` bestand dat de inhoud van de CD bevat.
+* Klik op `[Optical Drive] Empty` en selecteer de locatie van de CDROM `iso` die je eerder hebt opgeslagen en onthouden. De `Storage` settings laten nu zien dat de CDROM lade is "gevuld" met het `iso` bestand dat de inhoud van de CD bevat.
 
 ![CDROM lade is gevuld](https://user-images.githubusercontent.com/2081891/28613499-cbfa8db8-71f2-11e7-9a91-29256c2259c7.png)
+
+De virtuele machine kan nu gestart worden.
+
+* Dubbelklik op de virtuele machine aan de linkerkant `Win7 32-bit - Hulthem`, of selecteer deze virtuele machine en gebruik de groene `Start` knop boven in beeld.
+
+Er verschijnt een nieuw scherm waarin eerst de virtuele machine wordt opgestart, die Windows zal draaien en daarin het `Repertorium van Hulthem` zal opstarten.
+
+![Repertorium wordt gestart](https://user-images.githubusercontent.com/2081891/28614827-62f0acf8-71f7-11e7-91be-72568a0a0710.png)
