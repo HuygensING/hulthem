@@ -4,11 +4,11 @@
 * Download en installeer Virtualbox via https://www.virtualbox.org volgens de instructies die VirtualBox zelf voor jouw besturingssysteem aangeeft.
 
 * Download de virtuele machine waarop het Repertorium is voorgeïnstalleerd via
-    https://huygens.knaw.nl/plaats/waar/vm/te/vinden/is
+    http://huygens.knaw.nl/Hulthem/Win7%2032-bit%20-%20Hulthem.ova
 
 * Download het `iso` image van de CDROM van het Repertorium via
-    https://huygens.knaw.nl/plaats/waar/iso/te/vinden/is
-
+    http://huygens.knaw.nl/Hulthem/hulthem.iso
+    
 * Bewaar dit `iso` image ergens op een plek op je computer die je nog kunt terugvinden en onthoud deze locatie
 
 * Open de virtuele machine (dubbelklik op icoon, of rechtermuis en openen kiezen)
