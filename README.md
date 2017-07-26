@@ -3,10 +3,10 @@
 
 * Download en installeer Virtualbox via https://www.virtualbox.org/
 
-* Download de virtuele machine waarop het Repertorium is voorgeïnstalleerd via::
+* Download de virtuele machine waarop het Repertorium is voorgeïnstalleerd via
     https://huygens.knaw.nl/plaats/waar/vm/te/vinden/is
 
-* Download het `iso` image van de CDROM van het Repertorium via:
+* Download het `iso` image van de CDROM van het Repertorium via
     https://huygens.knaw.nl/plaats/waar/iso/te/vinden/is
 
 * Bewaar dit `iso` image ergens op een plek op je computer die je nog kunt terugvinden en onthoud deze locatie
@@ -20,3 +20,17 @@ VirtualBox zal nu deze virtuele image gaan importeren om het klaar voor gebruik 
 Tijdens het importeren wordt de voortgang getoond:
 
 ![Importeren van het image](https://user-images.githubusercontent.com/2081891/28613495-cbf6278c-71f2-11e7-9010-5fe145250dd2.png)
+
+Na de import is de virtuele machine beschikbaar. Links in de lijst staat deze benoemd (`Win7 32-bit - Hulthem`), rechts staan instellingen voor deze virtuele machine.
+
+![Overzicht beschikbare virtuele machines](https://user-images.githubusercontent.com/2081891/28613498-cbf854bc-71f2-11e7-8ac7-7c29c8f2367a.png)
+
+De software van het Repertorium vereist dat de CDROM "in de lade" ligt. We gaan dit vertalen naar de wereld van een virtuele machine, waar immers geen fysieke CDROM speler is.
+
+In de `Storage` settings aan de rechterkant, is te zien dat de CDROM lade leeg is (`[Optical Drive] Empty`)
+
+![CDROM lade is leeg](https://user-images.githubusercontent.com/2081891/28613494-cbf5cabc-71f2-11e7-8cee-1f8c71598fdc.png)
+
+Klik op `[Optical Drive] Empty` en selecteer de locatie van de CDROM `iso` die je eerder hebt opgeslagen en onthouden. De `Storage` settings laten nu zien dat de CDROM lade is "gevuld" met het `iso` bestand dat de inhoud van de CD bevat.
+
+![CDROM lade is gevuld](https://user-images.githubusercontent.com/2081891/28613499-cbfa8db8-71f2-11e7-9a91-29256c2259c7.png)
