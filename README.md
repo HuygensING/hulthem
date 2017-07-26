@@ -4,10 +4,10 @@
 * Download en installeer Virtualbox via https://www.virtualbox.org/
 
 * Download de virtuele machine waarop het Repertorium is voorgeïnstalleerd via
-https://huygens.knaw.nl/plaats/waar/vm/te/vinden/is
+    https://huygens.knaw.nl/plaats/waar/vm/te/vinden/is
 
 * Download het `iso` image van de CDROM van het Repertorium via
-https://huygens.knaw.nl/plaats/waar/iso/te/vinden/is
+    https://huygens.knaw.nl/plaats/waar/iso/te/vinden/is
 
 * Bewaar dit `iso` image ergens op een plek op je computer die je nog kunt terugvinden en onthoud deze locatie
 
