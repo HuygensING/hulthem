@@ -51,4 +51,4 @@ Na afloop van een sessie werken met het Repertorium kan de gehele virtuele machi
 *  Kies de optie `Power off`. Dat is het virtuele machine equivalent van de stekker uit het stopcontact trekken.
 
 ## Opstarten Repertorium in volgende sessies
-Bij vervolgsessies kan het zijn dat de Windows installatie "klaagt" over onjuist afsluiten, of over verlopen houdbaarheid, of dat er updates gedraaid moeten worden. Al deze meldingen kunnen worden weggeklikt, omdat de virtuele machine telkens weer vanuit dezelfde toestand wordt opgestart hoeft er niets te worden bijgewerkt en gaat er ook niets "stuk" met de `Power Off` optie.
+Bij vervolgsessies kan het zijn dat de Windows installatie "klaagt" over onjuist afsluiten, of over verlopen houdbaarheid, of dat er updates gedraaid moeten worden. Al deze meldingen kunnen worden weggeklikt. Omdat de virtuele machine telkens weer vanuit dezelfde toestand wordt opgestart hoeft er niets te worden bijgewerkt en er gaat ook niets "stuk" met de `Power Off` optie.
